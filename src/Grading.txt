@@ -1,0 +1,8 @@
+You didn't finish, but you were clearly on the right track...
+
+Extra Credit:		2/10
+
+Correct Output:		1/5
+Consistent Style: 	0/2
+Optimal Efficiency:	1/2
+Good Comments:		0/1
